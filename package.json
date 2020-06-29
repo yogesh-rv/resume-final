@@ -1,0 +1,22 @@
+{
+  "name": "resume-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh-rv/resume-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh-rv/resume-final/issues"
+  },
+  "homepage": "https://github.com/yogesh-rv/resume-final#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
